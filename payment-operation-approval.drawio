@@ -1,35 +1,62 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="ae5ZX3KUrFQQKEWRzweD">
-    <mxGraphModel dx="1434" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1xC_k3zxg_OfdFP4zmdE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="140" height="360" as="geometry" />
         </mxCell>
         <mxCell id="1xC_k3zxg_OfdFP4zmdE-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1xC_k3zxg_OfdFP4zmdE-3" value="运营维度配置表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-3" value="&lt;font color=&quot;#0066cc&quot;&gt;运营维度配置表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1xC_k3zxg_OfdFP4zmdE-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
-          <mxGeometry x="70" y="250" width="50" height="49" as="geometry" />
+          <mxGeometry x="70" y="240" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1xC_k3zxg_OfdFP4zmdE-5" value="运营规则生效表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="310" width="110" height="30" as="geometry" />
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-5" value="&lt;font color=&quot;#0066cc&quot;&gt;运营规则生效表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1xC_k3zxg_OfdFP4zmdE-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
-          <mxGeometry x="70" y="380" width="50" height="49" as="geometry" />
+          <mxGeometry x="70" y="340" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1xC_k3zxg_OfdFP4zmdE-7" value="付汇明细表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="440" width="80" height="30" as="geometry" />
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-7" value="&lt;font color=&quot;#0066cc&quot;&gt;付汇明细表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1xC_k3zxg_OfdFP4zmdE-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="590" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="1xC_k3zxg_OfdFP4zmdE-11" value="规则录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="189" width="120" height="60" as="geometry" />
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1xC_k3zxg_OfdFP4zmdE-11" target="1xC_k3zxg_OfdFP4zmdE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-11" value="规则录入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="189" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-12" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 16px;&quot;&gt;数据库&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-13" value="规则生效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="329" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-14" value="维度选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="189" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-15" value="生效规则录入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="189" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-16" value="防前缀匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="189" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-17" value="维度选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="329" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-18" value="生效字段匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xC_k3zxg_OfdFP4zmdE-19" value="生效结果获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="330" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
